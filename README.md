@@ -1,6 +1,6 @@
 # python-challenge
 
-PyBank script does the following:
+## PyBank script does the following:
 
 * Reads CSV file of data
 * Calculates the number of months in the list
